@@ -37,7 +37,7 @@ The HR dataset simulates a typical HR system's employee information, allowing fo
 
 ## 📊 HR Dashboard Visualizations
 
-The project is divided into three main sections for analysis:
+The dashboard is divided into three main sections for analysis:
 
 ### 1️⃣ **Overview Section**
 The **Overview Section** provides a snapshot of overall HR metrics, such as:
@@ -113,13 +113,13 @@ This section sheds light on how income correlates with different demographics an
 Here is a sneak peek of the visualizations in the HR Dashboard:
 ![image](https://github.com/user-attachments/assets/8bed74e5-6b0d-4476-8e2d-df9fabb2ebb7)
 
+<br>
 
-
- The Navigation pane has icons for information to the user and options to save the project file as a PDF.
+ The Navigation pane include icon for information to the user and options to save the project file as a PDF.
    ![image](https://github.com/user-attachments/assets/9a5e8e51-32c9-4817-a94f-29ef78489a34)
 
 
-- **Income Analysis**  
+
 
 
 ---
