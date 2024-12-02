@@ -1,4 +1,4 @@
-# 🧑‍💼 HR Dashboard Analysis - USA Company
+# 🧑‍💼 HR Dashboard Analysis 
 
 Welcome to the **HR Dashboard Analysis Project**! 🎉 This project focuses on analyzing human resources (HR) data for a fictitious company based in the **USA**. The dataset is provided by **Bara** (https://www.datawithbaraa.com) in `.csv` format. The goal of this project is to provide valuable insights into the **composition of the workforce**, **employee performance**, and **salary metrics** through the use of **Excel** and **Tableau Public**. 🖥️📊
 
@@ -20,15 +20,18 @@ The HR dataset simulates a typical HR system's employee information, allowing fo
 ## 🔧 Tools & Technologies Used
 
 - **Microsoft Excel**:  
-  - 🧹 *Data Cleaning*: Cleaned and checked the dataset for quality and accuracy.
-  - 📊 *Formulas*: Used Excel formulas to calculate key metrics like employee age, tenure, and performance.
-  - 📈 *Data Transformation*: Applied necessary transformations to ensure the data was ready for analysis.
+
+  -  🧹 *Data Quality Check*: Performed data quality checks to ensure accurate, consistent, and reliable data.       
+   - 🧹 *Data Cleaning*: Cleaned and checked the dataset for quality and accuracy.
+         This involved handling missing values, correcting nulls  and removing duplicates.
+
 
 - **Tableau Public**:  
   - 📊 *Data Import*: Imported the .csv file and created connections for analysis.
-  - 🔄 *Data Transformation*: Created calculated fields and hierarchies (State, City, Department, Job Title).
+  - 🔄 *Data Transformation*: Created hierarchies (State & City, Department & Job Title).
+  - 🧮 *Calculated Fields*: Calculated key metrics such as employee turnover, hiring trends, employee age, tenure, and performance.
   - 📈 *Data Visualization*: Developed interactive dashboards to provide high-level insights and detailed analysis.
-  - 🧮 *Calculated Fields*: Calculated employee turnover, hiring trends, and more.
+  
 
 ---
 
