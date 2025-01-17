@@ -1,4 +1,4 @@
-# 🧑‍💼 HR Analysis Dashboard
+# 🧑‍💼 HR Analytics Dashboard
 
 Welcome to the **HR Dashboard Analysis Project**! 🎉 This project focuses on analyzing human resources (HR) data for a fictitious company based in the **USA**. The dataset is provided by **Bara** (https://www.datawithbaraa.com) in `.csv` format. The goal of this project is to provide valuable insights into the **composition of the workforce**, **employee performance**, and **salary metrics** through the use of **Excel** and **Tableau Public**. 🖥️📊
 
@@ -115,8 +115,14 @@ Here is a sneak peek of the visualizations in the HR Dashboard:
 
 <br>
 
- The Navigation pane include icon for information to the user and options to save the project file as a PDF.
+ The Navigation pane includes user information icon plus options to save the project file as an Image and PDF.
    ![image](https://github.com/user-attachments/assets/9a5e8e51-32c9-4817-a94f-29ef78489a34)
+
+<br>
+This is the view into indepth anaylsis of employee records
+  
+ ![image](https://github.com/user-attachments/assets/03e3167c-d1ff-4076-8e99-d968e16c4d27)
+
 
 
 
@@ -128,8 +134,8 @@ Here is a sneak peek of the visualizations in the HR Dashboard:
 
 If you have any questions or suggestions, feel free to reach out to me!
 
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🌐 LinkedIn: [Your LinkedIn Profile](#)
+📧 Email: [your.email@example.com](mailto:maria.pamsp@example.com)  
+🌐 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/pamela-t-366908324)
 
 ---
 
