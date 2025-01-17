@@ -1,4 +1,4 @@
-# 🧑‍💼 HR Dashboard Analysis 
+# 🧑‍💼 HR Analysis Dashboard
 
 Welcome to the **HR Dashboard Analysis Project**! 🎉 This project focuses on analyzing human resources (HR) data for a fictitious company based in the **USA**. The dataset is provided by **Bara** (https://www.datawithbaraa.com) in `.csv` format. The goal of this project is to provide valuable insights into the **composition of the workforce**, **employee performance**, and **salary metrics** through the use of **Excel** and **Tableau Public**. 🖥️📊
 
