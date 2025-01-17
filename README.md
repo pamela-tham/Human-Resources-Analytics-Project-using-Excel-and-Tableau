@@ -125,18 +125,6 @@ This is the view into indepth anaylsis of employee records
 
 
 
-
-
-
----
-
-## 📧 Contact
-
-If you have any questions or suggestions, feel free to reach out to me!
-
-📧 Email: [your.email@example.com](mailto:maria.pamsp@example.com)  
-🌐 LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/pamela-t-366908324)
-
 ---
 
 ## 📝 Conclusion
